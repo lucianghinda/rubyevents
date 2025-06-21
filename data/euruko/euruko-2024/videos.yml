@@ -520,7 +520,8 @@
     - Lucian Ghinda
   description: ""
   video_id: "lucian-ghinda-workshop-euruko-2024"
-  video_provider: "not_recorded"
+  video_id: "zqaj9eyUTb4"
+  video_provider: "youtube"
 
 - title: "Building Beautiful Views in Ruby with Phlex"
   raw_title: "Building Beautiful Views in Ruby with Phlex"
